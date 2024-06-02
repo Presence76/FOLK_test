@@ -1,0 +1,52 @@
+[
+    {
+        "uid":320,
+        "claim":"Deficiency of Tetraspanin-3 causes impaired stem cell-renewal and disease propagation.",
+        "label":"SUPPORT"
+    },
+    {
+        "uid":33,
+        "claim":"A deficiency of folate decreases blood levels of homocysteine.",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":664,
+        "claim":"KLF4 prevents VSMCs from acquiring genetic characteristics of other cell types within atherosclerotic lesions.",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":1076,
+        "claim":"Serotonin receptors have no effect on depression",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":931,
+        "claim":"Patients with panic anxiety show increased CSF levels of hypocretin.",
+        "label":"SUPPORT"
+    },
+    {
+        "uid":1108,
+        "claim":"Suboptimal nutrition is a leading cause of chronic disease",
+        "label":"SUPPORT"
+    },
+    {
+        "uid":1233,
+        "claim":"The minor G allele of FOXO3 represses IL-10.",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":240,
+        "claim":"Cellular aging is uncorrelated with an older appearance.",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":276,
+        "claim":"Combining phosphatidylinositide 3-kinase and MEK 1\/2 inhibitors is ineffective at treating KRAS mutant tumors.",
+        "label":"CONTRADICT"
+    },
+    {
+        "uid":150,
+        "claim":"Autophagy deficiency in the liver protects from insulin resistance.",
+        "label":"SUPPORT"
+    }
+]
